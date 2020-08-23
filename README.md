@@ -19,6 +19,6 @@ Click on [Jupyter Notebook](https://github.com/aprasad13/NLP_Sentiment_Deep_Neur
 - Build the vocabulary based on the training data and then converted the tweets to tensors
 - Created a batch generator for the tweets
 - Defined the network structure using classifier function
-- Used CrossEntropyLoss() as loss function, optimizer as Adam
+- Used CrossEntropyLoss() as loss function and optimizer as Adam
 - Evaluated the model with an <strong>accuracy of 99.31%</strong>
 - Tested with a custum input to check if the model predict the sentiment of a complicated sentance or not
