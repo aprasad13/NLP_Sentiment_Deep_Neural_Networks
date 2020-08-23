@@ -1,6 +1,8 @@
 # NLP_Sentiment_Deep_Neural_Networks
 
-This notebook shows the implementation of <strong>Sentiment Analysis</strong> using Google's Trax
+This notebook shows the implementation of <strong>Sentiment Analysis</strong> using Google's Trax. 
+
+Using this user can get the sentiment of a sentence (positive/negative)
 
 Click on [Jupyter Notebook](https://github.com/aprasad13/NLP_Sentiment_Deep_Neural_Networks/blob/master/Sentiment_Deep_Neural_Networks.ipynb) to access the detailed code.
 
